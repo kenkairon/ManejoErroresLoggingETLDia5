@@ -6,19 +6,23 @@ Pipeline ETL (Extract, Transform, Load) completo implementado en Python con mane
 |------------------|--------------|----------|
 | **Carlos Vásquez** |28 Noviembre 2025 | 5|
 
+# Pipeline ETL Robusto con Manejo de Errores y Logging
+
+Pipeline ETL (Extract, Transform, Load) completo implementado en Python con manejo robusto de errores, reintentos automáticos, transacciones y logging estructurado.
+
 ## 📋 Tabla de Contenidos
 
-- [Características](#características)
-- [Requisitos](#requisitos)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Arquitectura del Pipeline](#arquitectura-del-pipeline)
-- [Estructura de Archivos](#estructura-de-archivos)
-- [Configuración](#configuración)
-- [Ejemplos](#ejemplos)
-- [Manejo de Errores](#manejo-de-errores)
-- [Logs y Monitoreo](#logs-y-monitoreo)
-- [Solución de Problemas](#solución-de-problemas)
+- [Características](#-características)
+- [Requisitos](#-requisitos)
+- [Instalación](#-instalación)
+- [Uso](#-uso)
+- [Arquitectura del Pipeline](#️-arquitectura-del-pipeline)
+- [Estructura de Archivos](#-estructura-de-archivos)
+- [Configuración](#️-configuración)
+- [Ejemplos](#-ejemplos)
+- [Manejo de Errores](#️-manejo-de-errores)
+- [Logs y Monitoreo](#-logs-y-monitoreo)
+- [Solución de Problemas](#-solución-de-problemas)
 
 ## ✨ Características
 
@@ -346,10 +350,30 @@ max_retries = 5  # En lugar de 3
 - [ ] Soporte para procesamiento en paralelo
 - [ ] Integración con sistemas de alertas (Slack, Teams)
 
-## Evidencia de Test
-![quiz](img/debug.png)
-
 ## 📄 Licencia
 
 Este proyecto es de código abierto y está disponible para uso educativo y comercial.
+
+## 🤝 Contribuciones
+
+Las contribuciones son bienvenidas. Por favor:
+1. Haz fork del proyecto
+2. Crea una rama para tu feature
+3. Commit tus cambios
+4. Push a la rama
+5. Abre un Pull Request
+
+## 📧 Contacto
+
+Para preguntas o soporte, abre un issue en el repositorio.
+
+---
+
+**Última actualización**: Noviembre 2024
+**Versión**: 1.0.0
+
+## Evidencia de Test
+![quiz](img/debug.png)
+
+
 
