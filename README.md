@@ -369,8 +369,6 @@ Para preguntas o soporte, abre un issue en el repositorio.
 
 ---
 
-**Última actualización**: Noviembre 2024
-**Versión**: 1.0.0
 
 ## Evidencia de Test
 ![quiz](img/debug.png)
