@@ -1,0 +1,15 @@
+2025-11-28 22:54:07,136 - etl_pipeline - INFO - === INICIANDO PIPELINE ETL ROBUSTO ===
+2025-11-28 22:54:07,137 - etl_pipeline - INFO - Intento de extracción #1
+2025-11-28 22:54:07,138 - etl_pipeline - INFO - ✓ Extracción exitosa: 100 registros
+2025-11-28 22:54:07,139 - etl_pipeline - INFO - Iniciando transformación de datos
+2025-11-28 22:54:07,145 - etl_pipeline - INFO - ✓ Transformación exitosa: 100 -> 100 registros
+2025-11-28 22:54:07,146 - etl_pipeline - INFO - Iniciando carga a base de datos
+2025-11-28 22:54:07,151 - etl_pipeline - INFO - Tabla limpiada para nueva carga
+2025-11-28 22:54:07,161 - etl_pipeline - INFO - ✓ Carga exitosa: 100 registros insertados
+2025-11-28 22:54:07,162 - etl_pipeline - INFO - ============================================================
+2025-11-28 22:54:07,162 - etl_pipeline - INFO - ✓ PIPELINE ETL COMPLETADO EXITOSAMENTE
+2025-11-28 22:54:07,165 - etl_pipeline - INFO - ============================================================
+2025-11-28 22:54:07,165 - etl_pipeline - INFO - Duración total: 0 days 00:00:00.025855
+2025-11-28 22:54:07,165 - etl_pipeline - INFO - Registros procesados: 100
+2025-11-28 22:54:07,167 - etl_pipeline - INFO - Errores encontrados: 0
+2025-11-28 22:54:07,167 - etl_pipeline - INFO - ============================================================
